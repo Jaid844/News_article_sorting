@@ -10,3 +10,9 @@
   to = "/main/:splat"
   status = 200
   force = true
+
+[dev.environment]
+  PORT = 5000  # Set the development port
+
+[build.environment]
+  PORT = 5000  # Set the production port
