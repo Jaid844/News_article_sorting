@@ -1,0 +1,6 @@
+spacy
+flask
+sentence-transformers
+scikit-learn
+gunicorn
+flask_cors
