@@ -1,0 +1,12 @@
+[build]
+  command = "pip install -r requirements.txt && python main.py"  # Build command to install dependencies and start the Flask application
+  publish = "path/to/your/app"  # Specify the path to your Flask application
+
+[dev]
+  command = "python main.py"  # Command to run the Flask application locally in development
+
+[[redirects]]
+  from = "/*"
+  to = "/main/:splat"
+  status = 200
+  force = true
