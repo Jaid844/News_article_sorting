@@ -9,7 +9,7 @@ The development of robust news article sorting algorithms contributes to a safer
 For Deployment use this link
 
  https://news-azyc.onrender.com
-(The link may take some time as it is a free instance and huge model a sentence trasnformer is in render or may fail :) )
+(The link may take some time as it is a free instance and huge model a sentence trasnformer is in render or may fail :) which I suggest Use a POSTMAN API for the calls)
 ![linkdin](https://github.com/Jaid844/News_article_sorting/assets/112820053/8aaf17a2-8715-4dd3-b5cb-3705b4e27c75)
 
 
